@@ -14,3 +14,50 @@ header{
     width: 100%;
     z-index: 1;
 }
+
+
+/*MAIN FIRST BOX*/
+
+
+.firstbox{
+    background-color: #1abc9c;
+}
+
+.content{
+    text-align: center;
+}
+
+.avatar{
+    width: 150px;
+    margin-top: 80px;
+    margin-bottom: 20px
+}
+
+.line_star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+
+.text_white{
+    color: white;
+}
+
+
+.line_star_white{
+    width: 10%;
+    height: 2px;
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.line_star_black{
+    width: 10%;
+    height: 2px;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
